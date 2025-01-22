@@ -131,16 +131,3 @@ Data includes:
 4. **Visual Reports:** Survival metrics and performance analysis.
 
 ---
-
-## How to Run
-
-### Prerequisites
-- Python 3.8+
-- Required libraries listed in `requirements.txt`
-
-### Installation
-Clone the repository and install dependencies:
-```bash
-git clone https://github.com/your-repo-name/green-ai
-cd green-ai
-pip install -r requirements.txt
